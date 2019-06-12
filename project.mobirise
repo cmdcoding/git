@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Paladins Realm Tournaments-clone-clone",
-    "currentPage": "paladinsrealmrules.html",
+    "currentPage": "paladinsrealmFAQ.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 51,
+    "uniqCompNum": 48,
     "versionPublish": "4.10.0",
     "favicon": "",
     "noImageResize": "",
@@ -41,7 +41,7 @@
   "pages": {
     "paladinsrealmrules.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "",
         "title": "Rules",
         "order": 2
       },
@@ -1292,7 +1292,7 @@
     },
     "paladinsrealmBattle_For_The_Archives.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "",
         "title": "Battle For The Archives3v33",
         "order": 4
       },
