@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Paladins Realm Tournaments-clone-clone",
-    "currentPage": "paladinsrealmrules.html",
+    "currentPage": "paladinsrealmBattle_For_The_Archives.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1293,7 +1293,7 @@
     "paladinsrealmBattle_For_The_Archives.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Battle For The Archives3v33",
+        "title": "Battle For The Archives3v3",
         "order": 4
       },
       "components": [
